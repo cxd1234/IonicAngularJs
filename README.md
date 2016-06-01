@@ -9,4 +9,6 @@ Ionic + AngularJs项目描述：</br>
               $ ionic platform add android  </br>
               $ ionic build android  </br>
               $ ionic emulate android  </br>
+              
+并参考了《联系人APP的开发》视频修改AngularJs代码
 
